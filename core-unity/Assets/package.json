@@ -4,7 +4,11 @@
   "displayName": "superbybot Core Package",
   "description": "",
   "unity": "2019.3",
-  "dependencies": {},
+  "dependencies": {
+    "com.cysharp.unitask": "git+https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
+    "com.neuecc.unirx": "git+https://github.com/neuecc/UniRx.git?path=Assets/Plugins/UniRx/Scripts",
+    "jp.hadashikick.vcontainer": "git+https://github.com/hadashiA/VContainer.git?path=VContainer/Assets/VContainer"
+  },
   "keywords": [
     "superbybot"
   ],
