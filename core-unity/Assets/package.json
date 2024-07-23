@@ -5,9 +5,9 @@
   "description": "",
   "unity": "2019.3",
   "dependencies": {
-    "com.cysharp.unitask": "git+https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
-    "com.neuecc.unirx": "git+https://github.com/neuecc/UniRx.git?path=Assets/Plugins/UniRx/Scripts",
-    "jp.hadashikick.vcontainer": "git+https://github.com/hadashiA/VContainer.git?path=VContainer/Assets/VContainer"
+    "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask#v2.5.5",
+    "com.neuecc.unirx": "https://github.com/neuecc/UniRx.git?path=Assets/Plugins/UniRx/Scripts#v1.16.2",
+    "jp.hadashikick.vcontainer": "https://github.com/hadashiA/VContainer.git?path=VContainer/Assets/VContainer#v7.1.0"
   },
   "keywords": [
     "superbybot"
